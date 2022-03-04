@@ -10,7 +10,7 @@
               >mdi-microphone</v-icon
             >
           </div>
-          <span style="text-decoration: none" class="title-details1">Silas Cast</span>
+          <span style="text-decoration: none" class="title-details1"></span>
         </div>
       </NuxtLink>
 
@@ -22,7 +22,7 @@
             >
           </div>
           <a href="/access" style="text-decoration: none" class="title-details2"
-            >Silas Key</a
+            ></a
           >
         </div>
       </NuxtLink>
@@ -35,7 +35,7 @@
             >
           </div>
           <a href="/car" style="text-decoration: none" class="title-detailsC"
-            >Silas Car</a
+            ></a
           >
         </div>
       </NuxtLink>
@@ -47,7 +47,7 @@
             >
           </div>
           <a href="/car" style="text-decoration: none" class="title-detailsC"
-            >Silas Kemo</a
+            ></a
           >
         </div>
       </NuxtLink>
@@ -59,7 +59,7 @@
               >mdi-monitor</v-icon
             >
           </div>
-          <span  style="text-decoration: none" class="title-details3"> Dashboard</span>
+          <span  style="text-decoration: none" class="title-details3"> </span>
         </div> </NuxtLink
       >
     </v-row>

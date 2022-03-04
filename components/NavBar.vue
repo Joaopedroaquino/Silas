@@ -13,10 +13,8 @@
         />
       </NuxtLink>
 
-      <!-- menu -->
       <div style="display: flex">
 
-        <!-- home -->
         <v-btn rounded
           class="icon-menu" 
           text
@@ -26,7 +24,6 @@
           <v-icon >mdi-home</v-icon>
         </v-btn>
 
-        <!-- profile -->
         <v-btn rounded
           class="icon-menu" 
           text
@@ -36,7 +33,6 @@
           <v-icon >mdi-account</v-icon>
         </v-btn>
 
-        <!-- exit -->
         <v-btn rounded class="icon-menu" text>
           <span class="text"> Sair </span>
           <v-icon >mdi-logout</v-icon>
