@@ -2,7 +2,7 @@
   <v-app class="all">
     <div class="content">
       <v-row cols="12" sm="8" md="6">
-        <NuxtLink to="/silascast" style="text-decoration: none">
+        <NuxtLink to="/" style="text-decoration: none">
           <div class="buttom-details1">
             <div class="menu-button-details" type="button">
               <v-icon
@@ -16,7 +16,7 @@
           </div>
         </NuxtLink>
 
-        <NuxtLink to="/silaskey" style="text-decoration: none">
+        <NuxtLink to="/" style="text-decoration: none">
           <div class="buttom-details2">
             <div class="menu-button-details" type="button">
               <v-icon
@@ -34,7 +34,7 @@
           </div>
         </NuxtLink>
 
-        <NuxtLink to="/silascar" style="text-decoration: none">
+        <NuxtLink to="/" style="text-decoration: none">
           <div class="buttom-details2">
             <div class="menu-button-details" type="button">
               <v-icon
